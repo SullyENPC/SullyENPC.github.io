@@ -108,10 +108,9 @@ a.form:hover{
     .stats{
         width: 75vw;
     }
-}
 
-@media (max-width:700px){
-    .event{
-        height : fit-content;   
+    .carou{
+        display:table-cell;
+        vertical-align:middle;
     }
 }
