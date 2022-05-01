@@ -109,7 +109,7 @@ a.form:hover{
         width: 75vw;
     }
 
-    .carousel-item img{
+    .carousel-img{
         position: absolute;
         top:50%;
         transform: translateY(-50%);
