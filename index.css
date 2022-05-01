@@ -109,8 +109,9 @@ a.form:hover{
         width: 75vw;
     }
 
-    .carou{
-        display:table-cell;
-        vertical-align:middle;
+    .carousel-item img{
+        position: absolute;
+        top:50%;
+        transform: translateY(-50%);
     }
 }
